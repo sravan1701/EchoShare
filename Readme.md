@@ -11,6 +11,10 @@ EchoShare is a real-time communication platform that enables users to connect th
 *   **Notifications:** Real-time alerts for new messages and friend requests.
 *   **Responsive Design:** Optimized for various devices.
 
+## 🚀 Live Demo
+
+Check out the deployed version of the project: [EchoShare on Render](https://echoshare.onrender.com)
+
 ## Technologies Used
 
 ### Frontend
